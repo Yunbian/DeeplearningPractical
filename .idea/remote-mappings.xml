@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@5f52b81c-7ae0-4cdc-816d-5e881a39dde9" />
+        <remote-mappings server-id="python@sftp://chengruru@221.226.81.54:65003/home/chengruru/anaconda3/bin/python3.6">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/chengruru/codes/chengruru/ServerRemote/DeepLearnigPractical" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>

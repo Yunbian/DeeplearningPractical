@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5f52b81c-7ae0-4cdc-816d-5e881a39dde9" name="sftp://chengruru@221.226.81.54:65003/home/chengruru/anaconda3/bin/python3.6">
+        <fileTransfer host="221.226.81.54" port="65003" rootFolder="/home/chengruru/codes/chengruru/ServerRemote" accessType="SFTP">
+          <option name="port" value="65003" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

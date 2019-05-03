@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="sftp://chengruru@221.226.81.54:65003/home/chengruru/anaconda3/bin/python3.6" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="chengruru@221.226.81.54:65003">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sftp://chengruru@221.226.81.54:65003/home/chengruru/anaconda3/bin/python3.6">
+        <serverdata>
+          <mappings>
+            <mapping deploy="DeepLearnigPractical" local="$PROJECT_DIR$" web="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wlc@114.212.160.59:12306">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
